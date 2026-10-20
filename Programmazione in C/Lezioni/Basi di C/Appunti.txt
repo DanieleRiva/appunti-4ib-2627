@@ -1,0 +1,5 @@
+Tutorial installazione GCC su Windows:
+	https://code.visualstudio.com/docs/cpp/config-mingw
+	
+Tutorial C:
+	https://www.geeksforgeeks.org/c/c-programming-language/
